@@ -8,3 +8,6 @@ Fernando Santiago
 ## Ferramentas para Pairwise
 [AllPairs](http://satisfice.com)
 [Hexawise](https://hexawise.com)
+
+## Ferramenta alternativa
+http://juliodelima.com.br/xdecision/
